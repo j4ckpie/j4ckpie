@@ -3,7 +3,7 @@
 ## General info
 Indie game developer, still learning new programming languages.
 
-## Current projects I'm working on:
+## Projects I'm currently working on:
 * [Sagittarius: The Lost and Cursed](https://jackpie.gamejolt.io/sagittarius)
 * ...
 
