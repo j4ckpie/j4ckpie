@@ -10,6 +10,7 @@ Indie game developer, still learning new programming languages.
 ## Socials
 * [GameJolt](gamejolt.com/@Jackpie)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=merko&show_icons=true)
 <!---
 j4ckpie/j4ckpie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
