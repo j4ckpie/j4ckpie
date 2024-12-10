@@ -5,7 +5,7 @@ Indie game developer, still learning new programming languages.
 
 ## Projects I'm currently working on:
 * [Sagittarius: The Lost and Cursed](https://jackpie.gamejolt.io/sagittarius)
-* What's Your Password?
+* What's Your Password? (Coming soon...)
 * ...
 
 ## Socials
