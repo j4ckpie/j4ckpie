@@ -9,7 +9,7 @@ i make video games and apps :v
 * ...
 
 ## socials
-* [Steam](https://store.steampowered.com/search/?developer=Jackpie)
+* [Steam](https://store.steampowered.com/search/?developer=Jackpie&ndl=1)
 * [GameJolt](https://gamejolt.com/@Jackpie)
 
 #
