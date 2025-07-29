@@ -1,15 +1,16 @@
 # Hello World!
 
-## General info
-Indie game developer, still learning new programming languages.
+## about me
+i make video games and apps :v
 
-## Projects I'm currently working on:
+## the games i made:
 * [Sagittarius: The Lost and Cursed](https://store.steampowered.com/app/3701160/Sagittarius_The_Lost_and_Cursed/)
 * What's Your Password? (Coming soon...)
 * ...
 
-## Socials
-* [GameJolt](gamejolt.com/@Jackpie)
+## socials
+* [Steam](https://store.steampowered.com/search/?developer=Jackpie)
+* [GameJolt](https://gamejolt.com/@Jackpie)
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j4ckpie&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true)
