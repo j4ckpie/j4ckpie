@@ -3,9 +3,11 @@
 ## about me
 i make video games and apps :v
 
-## the games i made:
+## projects i've been working on:
 * [Sagittarius: The Lost and Cursed](https://store.steampowered.com/app/3701160/Sagittarius_The_Lost_and_Cursed/)
-* What's Your Password? (Coming soon...)
+* What's Your Password?
+* [Project Rogue](https://github.com/j4ckpie/project-rogue)
+* [Codium](https://github.com/gdg-pw/Codium/)
 * ...
 
 ## socials
